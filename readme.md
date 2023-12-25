@@ -4,26 +4,6 @@
 
 This is a simple application for generating web tokens, providing convenient access through the system tray. The application is written in Python and uses the pystray, pyperclip, and Pillow libraries.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   https://github.com/king-tri-ton/web-token-generator.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd web-token-generator
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the script:
